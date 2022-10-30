@@ -7,3 +7,4 @@ cambio dos
 cambio desde github
 cambio desde mi lapto 
 se creo una nueva branch fix-type
+segundo cambio en fix-type
