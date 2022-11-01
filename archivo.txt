@@ -10,3 +10,4 @@ se creo una nueva branch fix-type
 segundo cambio en fix-type
 probando el comando stash
 comando amend y otros 
+vscode en esta rama 
