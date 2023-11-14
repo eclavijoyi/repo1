@@ -19,4 +19,4 @@ preuba con vscode 6
 prueba 7
 prueba 8
 prueba 9
-
+insertando comando git commit -am"mensaje"
