@@ -22,3 +22,4 @@ prueba 9
 insertando comando git commit -am"mensaje"
 insertando comando git commit -a
 cambio para mi nueva rama
+creando un nuevo cambio desde git hub y visual online 
