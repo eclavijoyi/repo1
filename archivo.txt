@@ -27,3 +27,4 @@ haciendo un nuevo push , envio los cambios de mi pc a servidor de git hub
 staging area
 working area
 guardando en stash
+agrego una nueva rama develops
