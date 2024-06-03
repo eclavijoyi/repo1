@@ -28,3 +28,4 @@ staging area
 working area
 guardando en stash
 agrego una nueva rama develops
+mi segun commit en la rama develops
