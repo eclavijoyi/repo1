@@ -30,3 +30,4 @@ guardando en stash
 agrego una nueva rama develops
 mi segun commit en la rama develops
 mi tercer commit en la rama develops
+continuo trabajado en la rama develops despues del merge 
