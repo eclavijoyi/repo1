@@ -26,7 +26,7 @@ creando un nuevo cambio desde git hub y visual online
 haciendo un nuevo push , envio los cambios de mi pc a servidor de git hub 
 staging area
 working area
-guardando en stash
+guardando en stash area local
 agrego una nueva rama develops
 mi segun commit en la rama develops
 mi tercer commit en la rama develops
