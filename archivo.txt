@@ -32,3 +32,4 @@ mi segun commit en la rama develops
 mi tercer commit en la rama develops
 continuo trabajado en la rama develops despues del merge 
 hago otro merge de develop hacia main
+guardando en editando desde git hub
